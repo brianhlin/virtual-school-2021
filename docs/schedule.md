@@ -30,3 +30,8 @@ Notes:
     staff will be available to help.
 
 *   Mentor meetings are one-on-one meetings with your assigned mentor.
+
+
+| Times^*^         | Activity                                                                                       |
+|:-----------------|:-----------------------------------------------------------------------------------------------|
+| 9:00&ndash;11:00 | &bull;&nbsp;Mentor 1-1 meetings<br>&bull;&nbsp;Mentor group meetings<br>(Scheduled separately) |
